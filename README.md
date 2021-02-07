@@ -38,7 +38,7 @@ Pseudocode :
 	End For loop
 	Print the average value for N trials over six bills
 	Print the standard bill result of 50$
-END
+END the program
 
 Output :
 ####### Scheme 1 #######
